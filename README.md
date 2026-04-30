@@ -99,7 +99,7 @@ sistema-gestion-personas-php/
 1. Clonar el repositorio:
 
 ```
-git clone https://github.com/TU-USUARIO/sistema-gestion-personas-php.git
+git clone https://github.com/Luisgonzalez0815/sistema-gestion-personas-php.git
 ```
 
 2. Mover la carpeta al directorio de XAMPP:
